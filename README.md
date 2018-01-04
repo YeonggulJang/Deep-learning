@@ -1,4 +1,4 @@
-# The encyclopedia for Deep-learning 
+# The Encyclopedia for Deep-learning 
 
 
 
